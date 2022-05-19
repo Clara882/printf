@@ -1,8 +1,11 @@
 #include<stdio.h>
-int main(){
+int main (){
 
-	printf("    O_\n");
-	printf("   /H \n");
-     	printf("   / \\\n");
+	printf("          (__)\n");
+	printf("          (oo)\n");
+	printf("    /------\\/\n");
+	printf("   / |    ||\n");
+	printf("  *  /\\---/\\\n");
+	printf("     ~~   ~~\n");
 	return 0;
 }
